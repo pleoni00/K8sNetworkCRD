@@ -1,2 +1,3 @@
 # K8sNetworkCRD
-Kubernetes Custom Resource Network
+This is the implementation of a Kubernetes Custom Resource which mantains the Network graph of the Pods and Nodes in your cluster.
+Along side, a controller which aligns the current state with the Custom Resource.
