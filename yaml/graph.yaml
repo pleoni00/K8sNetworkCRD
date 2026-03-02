@@ -1,0 +1,8 @@
+apiVersion: networking.pleoni00.com/v1
+kind: NetworkGraph
+metadata: 
+  name: network-graph
+  namespace: default
+spec:
+  nodes: []
+  edges: []
